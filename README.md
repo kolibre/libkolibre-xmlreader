@@ -89,4 +89,3 @@ GNU Lesser General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License
 along with libkolibre-xmlreader. If not, see <http://www.gnu.org/licenses/>.
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/00394d28d6a40c553107e73b056d0fe4 "githalytics.com")](http://githalytics.com/kolibre/libkolibre-xmlreader)
